@@ -14,6 +14,5 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 Link to deployed application:
 https://dobsonkevyn.github.io/Professional-Portfolio1/
 
-```md
-![Project Screenshot](./assets/images/1SCREENSHOT.png)    ```
-    
+
+![Project Screenshot] ![Project Screenshot](/Assets/images/1SCREENSHOT.png)
