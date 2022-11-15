@@ -62,7 +62,7 @@ header nav ul li a:hover {
 /* header styling end */
 /* hero styling start */
 .hero {
-    background-image: url("../images/SC.jpeg");
+    background-image: url("/Assets/images/SC.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -154,19 +154,19 @@ header nav ul li a:hover {
     background-image: url("../images/runbuddy.jpg");
 }
 .robot-gladiators {
-    background-image: url("../images/SC.jpeg");
+    background-image: url("/Assets/images/SC.jpeg");
     background-position: 50% 15%;
 }
 .prestige-worldwide {
-    background-image: url("../images/SC.jpeg");
+    background-image: url("/Assets/images/SC.jpeg");
     background-position: 60% 50%;
 }
 .fo4-char-mgr {
-    background-image: url("../images/SC.jpeg");
+    background-image: url("/Assets/images/SC.jpeg");
 }
 
 .project5 {
-    background-image: url("../images/SC.jpeg");
+    background-image: url("/Assets/images/SC.jpeg");
 }
 .project-label {
     /*background-color: var(--secondary);*/
