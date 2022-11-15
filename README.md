@@ -15,6 +15,5 @@ Link to deployed application:
 https://dobsonkevyn.github.io/Professional-Portfolio1/
 
 ```md
-    ![alt text](/Assets/images/1SCREENSHOT.png)
-    ```
+![Project Screenshot](./assets/images/1SCREENSHOT.png)    ```
     
